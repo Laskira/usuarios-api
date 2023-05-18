@@ -15,5 +15,5 @@ Rest Api realizada con .net core versión 6 y que cuenta con autenticación usan
 
 ### Intrucciones de uso: 
 - Descargar proyecto. 
-- Correr en la Sql Server el archivo [Script.sql](https://github.com/Laskira/usuarios-api/blob/master/Colegios/Script.sql "Script.sql")
+- Correr en la Sql Server el archivo [Script.sql](https://github.com/Laskira/usuarios-api/blob/master/Script.sql "Script.sql")
 - Iniciar el proyecto desde Visual Studio.
